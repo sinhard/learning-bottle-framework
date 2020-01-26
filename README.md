@@ -5,7 +5,8 @@ getting started with bottle - a simple and lightweight micro web-framework writt
 * Clone repository
 * Install python and pip. Help link can be found here, https://docs.python.org/3/installing/index.html
 * CD into root directory
-* run app.py and navigate to localhost://5000
+* run app.py and navigate to localhost:5000
 * See the magic! 
 
+In the mean time, I will be developing projects that i will be adding to the repository. 
 
